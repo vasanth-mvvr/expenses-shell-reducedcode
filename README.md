@@ -1,7 +1,7 @@
 # **expenses-shell-reducedcode**
 
-#**The main changes in this repository is making the common code into the one file and calling the common code where ever it is required**
-#**Removing the VALIDATE function which is created by the user for a good user experience and replacing it with the inbuilt funtion with less UI**
+# **The main changes in this repository is making the common code into the one file and calling the common code where ever it is required**
+# **Removing the VALIDATE function which is created by the user for a good user experience and replacing it with the inbuilt funtion with less UI**
 
 #The below command needs to be kept in the starting of the file after shebang command
 ```
